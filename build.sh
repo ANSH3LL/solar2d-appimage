@@ -38,6 +38,9 @@ cp build/libs/libhogweed.so.5.0 appdir/usr/lib/libhogweed.so.5.0
 cp build/libs/libnettle.so.7 appdir/usr/lib/libnettle.so.7
 cp build/libs/libnettle.so.7.0 appdir/usr/lib/libnettle.so.7.0
 
+cp build/libs/libunistring.so.2 appdir/usr/lib/libunistring.so.2
+cp build/libs/libunistring.so.2.2.0 appdir/usr/lib/libunistring.so.2.2.0
+
 echo "Copying application metadata..."
 
 # mkdir appdir/usr/share/metainfo
